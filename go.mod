@@ -1,3 +1,3 @@
-module github.com/gorilla-go/toolkit
+module github.com/gorilla-go/foundation
 
 go 1.18
